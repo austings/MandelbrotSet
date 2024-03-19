@@ -4,7 +4,7 @@
 ![screenshot](https://github.com/austings/MandelbrotSet/blob/main/screenshot.png)
 
 
-# requires 
+# requires (use pip or conda)
 
 numba
 
